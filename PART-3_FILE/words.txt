@@ -1,0 +1,13 @@
+toy
+pot
+cat
+man
+man
+cat
+toy
+pot
+pot
+man
+toy
+cat
+man
